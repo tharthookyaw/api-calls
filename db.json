@@ -1,0 +1,25 @@
+{
+  "prices": {
+    "ounce": {
+      "silver": 31.69,
+      "gold": 2399.24,
+      "platinum": 1274.518
+    },
+    "gram": {
+      "gold": 77.1373,
+      "silver": 1.0189,
+      "platinum": 40.9767
+    },
+    "hundred_gram": {
+      "gold": 7713.5566,
+      "silver": 101.8834,
+      "platinum": 4097.5754
+    },
+    "thousand_gram": {
+      "gold": 77130.7675,
+      "silver": 1018.8557,
+      "platinum": 40976.6459
+    }
+  },
+  "current_time": "2021-09-11 13:39:45 SGT"
+}
